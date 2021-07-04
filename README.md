@@ -31,10 +31,21 @@ so the script try with the diferent combinatiosn of the numbers and if one of th
 for use:
 
 ```
-	$ ./pythagoran.py
+$ ./pythagoran.py
 Bring 3 Integer Numbers (separate by space):3 4 5
 These numbers are a valid pythagorean triplet when:
   A (side)=3
   B (side)=4
   C (hypotenuse)=5
 ```
+
+
+## NOTES
+
+both scripts have on the first line the location of python3 compiler, for my PC is located on: /usr/bin/python3, in case of the script not runs try to locate where is setted yout python compiler:
+
+``` which python3 ```
+
+or if is better for you just delete the first line and run like that:
+
+``` $python3 pythagoran.py ```
