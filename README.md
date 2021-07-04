@@ -49,3 +49,4 @@ both scripts have on the first line the location of python3 compiler, for my PC 
 or if is better for you just delete the first line and run like that:
 
 ``` $python3 pythagoran.py ```
+``` $python3 validate_ip.py 172.16.23.14 ```
