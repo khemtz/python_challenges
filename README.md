@@ -19,7 +19,7 @@ taking the pythagoras triangle i assume that for be a valid pythagoran triangle 
 
 ```a*a + b*b = c*c```
 
-![pythagoran triangle](https://es.wikipedia.org/wiki/Terna_pitag%C3%B3rica#/media/Archivo:Pythagorean_theorem_-_Ani.gif)
+![pythagoran triangle](https://upload.wikimedia.org/wikipedia/commons/4/4c/Pythagorean_theorem_-_Ani.gif)
 
 where:
   - A = Side
