@@ -19,11 +19,11 @@ taking the pythagoras triangle i assume that for be a valid pythagoran triangle 
 
 ```a*a + b*b = c*c```
 
-![pythagoran triangle](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Trigonometria_01a.svg/1200px-Trigonometria_01a.svg.png)
+![pythagoran triangle](https://es.wikipedia.org/wiki/Terna_pitag%C3%B3rica#/media/Archivo:Pythagorean_theorem_-_Ani.gif)
 
 where:
-  - A = a Side
-  - B = a Side
+  - A = Side
+  - B = Side
   - C = Hypotenuse
 
 so the script try with the diferent combinatiosn of the numbers and if one of this combinations are valid with the formula indicates you how tha numbers must be set.
