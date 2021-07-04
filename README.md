@@ -17,14 +17,14 @@ On this script will takes the value from the args, some examples for run:
 ## pythagoran.py
 taking the pythagoras triangle i assume that for be a valid pythagoran triangle the formula must be true:
 
-a*a + b*b = c*c
+```a*a + b*b = c*c```
 
 ![pythagoran triangle](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Trigonometria_01a.svg/1200px-Trigonometria_01a.svg.png)
 
 where:
-    A = a Side
-    B = a Side
-    C = Hypotenuse
+  - A = a Side
+  - B = a Side
+  - C = Hypotenuse
 
 so the script try with the diferent combinatiosn of the numbers and if one of this combinations are valid with the formula indicates you how tha numbers must be set.
 
